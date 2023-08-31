@@ -1,4 +1,4 @@
-<h1>Object Recognition with the Thymio II Robot</h1>
+<h1>Maze Navigation with the Thymio II Robot</h1>
 
 <h2>Description</h2>
 Developed a program in ASEBA that allows the Thymio II robot to navigate through a maze. Made use of concepts such as: pattern based searches, object avoidance and, object/image recognition.
